@@ -10,13 +10,13 @@ commit, credited to its player.
 
 ## The board
 
-**Game 1 - move 1 - Black to play**
+**Game 1 - move 2 - White to play**
 
 ```
 8  ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-7  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+7  ♟ ♟ ♟ ♟ ♟ . ♟ ♟
 6  . . . . . . . .
-5  . . . . . . . .
+5  . . . . . ♟ . .
 4  . . . . . ♙ . .
 3  . . . . . . . .
 2  ♙ ♙ ♙ ♙ ♙ . ♙ ♙
@@ -25,9 +25,9 @@ commit, credited to its player.
    a b c d e f g h
 ```
 
-Last move: f4 by @yarism
+Last move: f5 by @yarism
 
-1. f4
+1. f4 f5
 
 ## How to play
 
@@ -38,7 +38,7 @@ whoever commits next, anywhere in the world, plays the next move.
 No Keep at hand? Open an issue titled
 
 ```
-keep-chess | g1 | ply1 | e2e4
+keep-chess | g1 | ply2 | e2e4
 ```
 
 with your move in [UCI notation](https://en.wikipedia.org/wiki/Universal_Chess_Interface)
