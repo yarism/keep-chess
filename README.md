@@ -51,3 +51,7 @@ quickest way to have one found. Never want the board again? One click on
 ## The score
 
 No finished games yet - this is game 1.
+
+## Comments
+
+Just wanted to test this game by a comment
