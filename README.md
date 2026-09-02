@@ -57,3 +57,5 @@ No finished games yet - this is game 1.
 Just wanted to test this game by a comment
 
 Lets do the next move
+
+Lets do another move then
