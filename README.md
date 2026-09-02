@@ -10,22 +10,24 @@ commit, credited to its player.
 
 ## The board
 
-**Game 1 - move 1 - White to play**
+**Game 1 - move 1 - Black to play**
 
 ```
 8  ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
 7  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
 6  . . . . . . . .
 5  . . . . . . . .
-4  . . . . . . . .
+4  . . . . . ♙ . .
 3  . . . . . . . .
-2  ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+2  ♙ ♙ ♙ ♙ ♙ . ♙ ♙
 1  ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
    a b c d e f g h
 ```
 
-No moves yet - the first commit plays the first move.
+Last move: f4 by @yarism
+
+1. f4
 
 ## How to play
 
@@ -36,7 +38,7 @@ whoever commits next, anywhere in the world, plays the next move.
 No Keep at hand? Open an issue titled
 
 ```
-keep-chess | g1 | ply0 | e2e4
+keep-chess | g1 | ply1 | e2e4
 ```
 
 with your move in [UCI notation](https://en.wikipedia.org/wiki/Universal_Chess_Interface)
@@ -51,7 +53,3 @@ quickest way to have one found. Never want the board again? One click on
 ## The score
 
 No finished games yet - this is game 1.
-
-## Comments
-
-Just wanted to test this game by a comment
