@@ -1,7 +1,7 @@
 {
   "game": 1,
-  "ply": 6,
-  "fen": "r1bqkbnr/pppp2pp/2n1p3/3N1p2/5P2/8/PPPPP1PP/R1BQKBNR w KQkq - 0 4",
+  "ply": 7,
+  "fen": "r1bqkbnr/pppp2pp/2n1p3/5p2/5P2/4N3/PPPPP1PP/R1BQKBNR b KQkq - 1 4",
   "moves": [
     {
       "san": "f4",
@@ -32,6 +32,11 @@
       "san": "e6",
       "uci": "e7e6",
       "by": "yarism"
+    },
+    {
+      "san": "Ne3",
+      "uci": "d5e3",
+      "by": "yarism"
     }
   ],
   "positions": [
@@ -40,7 +45,8 @@
     "rnbqkbnr/ppppp1pp/8/5p2/5P2/8/PPPPP1PP/RNBQKBNR w KQkq f6",
     "rnbqkbnr/ppppp1pp/8/5p2/5P2/2N5/PPPPP1PP/R1BQKBNR b KQkq -",
     "r1bqkbnr/ppppp1pp/2n5/5p2/5P2/2N5/PPPPP1PP/R1BQKBNR w KQkq -",
-    "r1bqkbnr/ppppp1pp/2n5/3N1p2/5P2/8/PPPPP1PP/R1BQKBNR b KQkq -"
+    "r1bqkbnr/ppppp1pp/2n5/3N1p2/5P2/8/PPPPP1PP/R1BQKBNR b KQkq -",
+    "r1bqkbnr/pppp2pp/2n1p3/3N1p2/5P2/8/PPPPP1PP/R1BQKBNR w KQkq -"
   ],
   "tally": {
     "white": 0,
